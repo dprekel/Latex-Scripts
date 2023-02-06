@@ -1,0 +1,105 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Quantum Chemistry}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Mathematischer Formalismus}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Vektorräume, Skalarprodukte und Normen}{4}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Hilberträume}{4}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Tensorprodukte}{4}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Orthonormalbasen}{4}{subsection.1.1.4}%
+\contentsline {subsubsection}{Endlichdimensionale Räume}{4}{section*.2}%
+\contentsline {subsubsection}{Unendlichdimensionale Räume}{6}{section*.3}%
+\contentsline {subsection}{\numberline {1.1.5}Selbstadjungierte Operatoren}{6}{subsection.1.1.5}%
+\contentsline {subsection}{\numberline {1.1.6}Darstellungstheorie}{6}{subsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.1.7}Unitäre Operatoren}{8}{subsection.1.1.7}%
+\contentsline {subsection}{\numberline {1.1.8}Kommutatoren}{9}{subsection.1.1.8}%
+\contentsline {subsection}{\numberline {1.1.9}Dirac-Notation}{9}{subsection.1.1.9}%
+\contentsline {section}{\numberline {1.2}Bahndrehimpuls}{11}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Lie-Gruppen and Lie-Algebren}{11}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Drehimpulsoperatoren}{11}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Leiteroperatormethode}{11}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Bahndrehimpuls-Lösungen}{13}{subsection.1.2.4}%
+\contentsline {subsubsection}{Ortsdarstellung}{13}{section*.5}%
+\contentsline {subsubsection}{Matrixdarstellung}{15}{section*.6}%
+\contentsline {subsection}{\numberline {1.2.5}Kugelflächenfunktionen und ihre Visualisierung}{15}{subsection.1.2.5}%
+\contentsline {section}{\numberline {1.3}Wasserstoffatom}{17}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Zentralkräfteproblem}{17}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Lösung des Winkelanteils}{18}{subsection.1.3.2}%
+\contentsline {subsubsection}{Lösung des $\phi $-Anteils}{20}{section*.8}%
+\contentsline {subsubsection}{Lösung des $\vartheta $-Anteils}{21}{section*.9}%
+\contentsline {subsubsection}{Lösung des Radialanteils}{25}{section*.13}%
+\contentsline {subsection}{\numberline {1.3.3}Lösung des Radialanteils}{25}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Darstellung und Visualisierung der Gesamtlösungen}{25}{subsection.1.3.4}%
+\contentsline {chapter}{\numberline {2}Nonrelativistic Many-Electron Theory}{26}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Spin Angular Momentum}{26}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Lie Groups and Lie Algebras}{26}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Angular Momentum Operators}{26}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Ladder Operator Method}{26}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Spin-Lösungen}{28}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Die SU(2)-Drehgruppe}{29}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Kopplung von Drehimpulsen}{29}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Clebsch-Gordan-Koeffizienten}{30}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}Spin-Spin-Kopplung}{32}{subsection.2.1.8}%
+\contentsline {section}{\numberline {2.2}Pauli Principle}{32}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Second Quantization}{32}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Configuration State Functions (CSFs)}{32}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Hartree-Fock Approximation}{33}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Schalennäherung}{33}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Herleitung}{35}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Roothan-Hall-Gleichungen}{36}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Methan-Molekül in STO-3G-Basis}{37}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2.6}Linear Variational Principle}{39}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Full Configuration Interaction (FCI)}{40}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Coupled Cluster}{41}{section.2.8}%
+\contentsline {section}{\numberline {2.9}DLPNO-CCSD(T)}{42}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Complete Active Space Self Consistent Field (CASSCF)}{43}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Density Matrix Renormalization Group (DMRG)}{43}{section.2.11}%
+\contentsline {chapter}{\numberline {3}Relativistic Many-Electron Theory}{44}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Electromagnetic Field Lagrangian}{44}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Dirac Equation}{46}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Bethe-Salpeter Equation}{46}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Dirac-Coulomb Equation}{46}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Dirac-Coulomb-Breit Equation}{46}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Foldy-Wouthuysen Transformation}{46}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Pauli Equation and Stern-Gerlach Experiment}{47}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Breit-Pauli Equation}{47}{section.3.8}%
+\contentsline {section}{\numberline {3.9}EPR/NMR Parameters}{47}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Zero Field Splitting ($\boldsymbol {D}$-Tensor)}{47}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Electronic $\boldsymbol {g}$-Tensor}{47}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}Hyperfine Interaction ($\boldsymbol {A}$-Tensor)}{47}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}Nuclear $\boldsymbol {g}$-Tensor}{47}{subsection.3.9.4}%
+\contentsline {subsection}{\numberline {3.9.5}Indirect Nuclear Spin-Spin Interaction}{47}{subsection.3.9.5}%
+\contentsline {section}{\numberline {3.10}EPR/NMR Spin Hamiltonian}{48}{section.3.10}%
+\contentsline {section}{\numberline {3.11}Quantum Electrodynamics}{48}{section.3.11}%
+\contentsline {subsection}{\numberline {3.11.1}Dirac Equation in Covariant Form}{48}{subsection.3.11.1}%
+\contentsline {subsection}{\numberline {3.11.2}QED Lagrangian}{49}{subsection.3.11.2}%
+\contentsline {subsection}{\numberline {3.11.3}Electron Magnetic Dipole Moment}{49}{subsection.3.11.3}%
+\contentsline {subsection}{\numberline {3.11.4}Bethe-Salpeter Equation}{49}{subsection.3.11.4}%
+\contentsline {subsection}{\numberline {3.11.5}Two-Body Dirac Equations}{49}{subsection.3.11.5}%
+\contentsline {subsection}{\numberline {3.11.6}Proton Spin Crisis}{49}{subsection.3.11.6}%
+\contentsline {chapter}{\numberline {4}Density Functional Theory (DFT)}{50}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Electron Density}{50}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Hohenberg-Kohn Theorem}{50}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Kohn-Sham Equations}{50}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Exchange-Correlation Functionals}{51}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Density Functional Tight Binding (DFTB)}{51}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Time-Dependent Density Functional Theory (TD-DFT)}{51}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Transition State Optimizations}{52}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Nudged Elastic Band Method (NEB)}{52}{section.5.1}%
+\contentsline {section}{\numberline {5.2}BFGS Algorithm}{52}{section.5.2}%
+\contentsline {section}{\numberline {5.3}L-BFGS Algorithm}{52}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Quantenchemische Rechnungen}{53}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Einführung in ORCA Quantum Chemistry}{53}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Mit ZMatrix-Editor}{54}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Eigenes Hartree-Fock-Programm}{54}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Trash}{55}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Calculation of NMR/EPR Properties}{55}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Nuclear Spin}{55}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Effective NMR Spin-Hamiltonian}{55}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}Spin-Orbit Coupling (SOC)}{56}{subsection.7.1.3}%
+\contentsline {chapter}{\numberline {8}Appendix}{57}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Ferromagnetism and Antiferromagnetism}{57}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Point Group Symmetry Adapted Linear Combinations (SALCs)}{57}{section.8.2}%
+\contentsline {subsubsection}{Ethylen-Molekül}{57}{section*.18}%
+\contentsline {subsubsection}{Hexamminchrom(III)-Komplex}{63}{section*.23}%
+\contentsline {subsubsection}{CASSCF-Berechnungen}{63}{section*.24}%
+\contentsline {subsubsection}{Elektronische Struktur von Übergangsmetallkomplexen}{63}{section*.25}%
+\contentsline {section}{\numberline {8.3}Benzene Molecular Orbitals in Hückel Approximation}{63}{section.8.3}%
